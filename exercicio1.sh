@@ -1,5 +1,5 @@
 #!/bin/bash
-# eu vou ter muito sucesso na programação
+# Eu sou Tryber
 igor="shell script é demais"
 
 echo $igor
